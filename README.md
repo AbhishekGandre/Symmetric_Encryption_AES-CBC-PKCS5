@@ -1,4 +1,5 @@
 # Symmetric Encryption
+<img src="https://github.com/AbhishekGandre/Symmetric_Encryption_AES-CBC-PKCS5/blob/master/Symmetric-Encryption.png"> </img>
 ## Symmetric encryption uses a single secret key for both encrypting and decrypting data, making it fast and efficient for large volumes of information. However, it requires a secure method for exchanging the key between the sender and receiver. Common algorithms include AES, and it's used in applications like file encryption, VPNs, and database security.  
 # How it Works 
 ## Encryption: A sender uses a secret key to encrypt a message (plaintext) into an unreadable format (ciphertext).
